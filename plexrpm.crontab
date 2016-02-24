@@ -1,1 +1,1 @@
-0 */2 * * *  root cd /path/to/checkplexpackage.pl/ && ./checkplexpackage.pl 2>&1 >/root/plexupdate.log
+0 */2 * * *  root cd REPLACEWITHPATH  && ./checkplexpackage.pl 2>&1 >/root/plexupdate.log
