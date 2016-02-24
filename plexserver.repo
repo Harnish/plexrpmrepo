@@ -1,0 +1,8 @@
+[plexserver]
+name=Plex Media Server
+baseurl=file://path/to/checkplexpackage.pl/
+enabled=1
+skip_if_unavailable=1
+gpgkey=
+gpgcheck=0
+
